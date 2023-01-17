@@ -1,0 +1,1 @@
+export 'package:test_pkp/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
